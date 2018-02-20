@@ -1,7 +1,19 @@
 .timers
 {
+	height: 1.5em;
 	color: #0f0;
 	font-size: 2em;
+	text-align: right;
+	font-family: "courier";
+}
+
+.names
+{
+	height: 1.5em;
+	color: #0f0;
+	font-size: 2em;
+	text-align: left;
+	font-family: "courier new"
 }
 
 .container

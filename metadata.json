@@ -1,0 +1,6 @@
+{
+	"uuid": "uniclock@74oshua",
+	"name": "Uniclock",
+	"description": "Displays the current time in different time zones",
+	"prevent-decorations": false
+}
